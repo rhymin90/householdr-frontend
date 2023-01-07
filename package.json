@@ -43,8 +43,8 @@
     "lint-staged": "^12.3.1",
     "nightwatch": "^2.6.6",
     "prettier": "^2.7.1",
-    "stylelint": "^13.13.1",
+    "stylelint": "^14.16.1",
     "stylelint-config-prettier": "^9.0.3",
-    "stylelint-config-standard": "^22.0.0"
+    "stylelint-config-standard": "^29.0.0"
   }
 }
